@@ -9,7 +9,7 @@
 
 ##  개발 일지
 220728 (황귀용) LCD display 구현   
-220728 (염훈) joystick control 구현
+220728 (염훈) joystick control 구현   
 
 ## 기술 스택
 
